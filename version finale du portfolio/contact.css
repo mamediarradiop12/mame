@@ -1,0 +1,8 @@
+button{ border-radius: 100px;}
+#message{
+    height: 50px;
+}
+fieldset{background-color: white;}
+
+.number{display: flex;
+    margin-top:40px;}

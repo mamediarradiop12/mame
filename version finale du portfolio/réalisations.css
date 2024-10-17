@@ -1,0 +1,64 @@
+.nav{display: flex;
+    background-color: #282E69;
+}
+
+ .logo{width: 100px;
+height: 100px;
+margin-right: 400px;
+       }
+.menu{margin-top: 30px;}
+
+ .propos{
+    display: flex;
+    background-image:linear-gradient( white, #282E69);
+border-bottom-left-radius: 90px;
+border-bottom-right-radius: 90px;
+width: 1530px;
+height: 600px;}
+
+ .acceuil{
+    color: white;
+    text-decoration: none;
+    margin-right: 50px;
+ }
+
+ .réalisations{
+    color: white;
+     text-decoration: none;
+     margin-left: 50px;
+ }
+.number{display: flex;
+    margin-top:40px;}
+
+.email{margin-right: 600px;}
+ .contact{
+    color: white;
+    text-decoration: none;
+    margin-left: 50px;
+ }
+ .carousell{display: flex;margin-left: 50px;}
+ .mm{margin-left: 40px;}
+ .mmm{margin-left: 40px;}
+ .services{
+    color: white;
+    text-decoration: none;
+ }
+.carousel{display: flex;}
+ #rs{ 
+    margin-top: 30px;
+    color: white;
+    margin-left: 400px;
+ }
+ 
+ #moi {
+   height: 300px;
+   width: 200; 
+   margin-left: 90px;
+   margin-right: 80px;
+   border-radius: 100%;
+   margin-top: 100px;
+   border:solid 5px #282E69;}
+    #A{max-width: 300px; max-height: 300px;}
+    #B{max-width:300px;max-width: 300px;
+    }
+    #C{max-width: 300px;max-height:300px;}
